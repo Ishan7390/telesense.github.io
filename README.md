@@ -1,2 +1,2 @@
-# telesense.github.io
+# TELE SENSE
 Real time Pose Estimation using Posenet
